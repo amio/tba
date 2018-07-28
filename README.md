@@ -1,4 +1,4 @@
-# To Be Announced
+# To Be Announced ![deploy to now][now-deploy-src]
 
 A minimal placeholder page for domains just bought.
 
@@ -10,10 +10,8 @@ https://tba.now.sh or https://amio.github.io/tba/
 
 ## Deploy to now
 
-[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/amio/tba)
-
-or
-
 ```bash
 now deploy amio/tba
 ```
+
+[now-deploy-src]: https://badgen.net/badge/▲/$%20now%20deploy%20amio%2Ftba/111
